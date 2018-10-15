@@ -730,7 +730,7 @@ int villageEffect(int currentPlayer, struct gameState* state)
       drawCard(currentPlayer, state);
       
       //+2 Actions
-      state->numActions = state->numActions + 2;
+      state->numActions = state->numActions - 2;
       return 0;
 }
 
