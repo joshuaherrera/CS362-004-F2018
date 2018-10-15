@@ -137,5 +137,7 @@ int councilRoomEffect(int player, struct gameState *state);
 /*both players draw cards*/
 int villageEffect(int player, struct gameState *state);
 /*inc draw and 2 actions*/
+int greatHallEffect(int player, struct gameState *state);
+/*inc 1 action and 1 card*/
 
 #endif

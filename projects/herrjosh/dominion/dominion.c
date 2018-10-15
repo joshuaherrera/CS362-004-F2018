@@ -734,6 +734,15 @@ int villageEffect(int currentPlayer, struct gameState* state)
       return 0;
 }
 
+int greatHallEffect(int currentPlayer, struct gameState* state)
+{
+   //+1 Card
+  drawCard(currentPlayer, state);
+      
+  //+1 Actions
+  state->numActions++;
+}
+
 int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus)
 {
   int i;
@@ -973,15 +982,13 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
       return 0;
 		
     case great_hall:
-      //+1 Card
-      drawCard(currentPlayer, state);
-			
-      //+1 Actions
-      state->numActions++;
-			
-      //discard card from hand
-      discardCard(handPos, currentPlayer, state, 0);
-      return 0;
+      if (greatHallEffect(currentPlayer, state) == 0)
+      {
+        //discard card from hand
+        discardCard(handPos, currentPlayer, state, 0);
+        return 0;
+      }
+      return -1;
 		
     case minion:
       //+1 action
