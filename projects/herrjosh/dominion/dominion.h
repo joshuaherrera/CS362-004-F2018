@@ -131,4 +131,8 @@ int getWinners(int players[MAX_PLAYERS], struct gameState *state);
 int smithyEffect(int player, struct gameState *state);
 /*draws 3 cards*/
 
+int adventurerEffect(int player, struct gameState *state, int* tempHand);
+/*draws until 2 treasures found and discards rest*/
+int councilRoomEffect(int player, struct gameState *state);
+
 #endif
