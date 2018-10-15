@@ -521,7 +521,7 @@ int getWinners(int players[MAX_PLAYERS], struct gameState *state) {
 
   return 0;
 }
-
+/***************************************************************************************************/
 int drawCard(int player, struct gameState *state)
 {	int count;
   int deckCounter;
@@ -579,6 +579,7 @@ int drawCard(int player, struct gameState *state)
 
   return 0;
 }
+/****************************************************************************************************/
 
 int getCost(int cardNumber)
 {
@@ -641,6 +642,16 @@ int getCost(int cardNumber)
     }
 	
   return -1;
+}
+
+int smithyEffect(int player, struct gameState *state)
+{
+  int i;
+  for (i = 0; i < 3; i++)
+  {
+    drawCard(player, state);
+  }
+  return 0;
 }
 
 int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus)
@@ -827,17 +838,26 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
 
 
       return 0;
-		
+/****************************************************************************/
     case smithy:
       //+3 Cards
-      for (i = 0; i < 3; i++)
-	{
-	  drawCard(currentPlayer, state);
-	}
-			
-      //discard card from hand
+    if(smithyEffect(currentPlayer, state) == 0)
+    {
+      /*no errors, discard card*/
       discardCard(handPos, currentPlayer, state, 0);
       return 0;
+    }
+    else
+      return -1;
+/*      for (i = 0; i < 3; i++)
+	{
+	  drawCard(currentPlayer, state);
+	}*/
+/****************************************************************************/
+			
+      //discard card from hand
+/*      discardCard(handPos, currentPlayer, state, 0);
+      return 0;*/
 		
     case village:
       //+1 Card
