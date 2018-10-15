@@ -647,7 +647,7 @@ int getCost(int cardNumber)
 int smithyEffect(int player, struct gameState *state)
 {
   int i;
-  for (i = 0; i < 3; i++)
+  for (i = 0; i <= 3; i++)
   {
     drawCard(player, state);
   }
@@ -656,7 +656,7 @@ int smithyEffect(int player, struct gameState *state)
 
 int adventurerEffect(int player, struct gameState *state, int* temphand)
 {
-  int z = 0;
+  int z;
   int cardDrawn = -999;
   int drawntreas = 0;
   while(drawntreas<2){
@@ -711,7 +711,7 @@ int councilRoomEffect(int player, struct gameState* state)
   }
       
       //+1 Buy
-      state->numBuys++;
+      state->numBuys+= 11;
       
       //Each other player draws a card
       for (i = 0; i < state->numPlayers; i++)
@@ -741,6 +741,8 @@ int greatHallEffect(int currentPlayer, struct gameState* state)
       
   //+1 Actions
   state->numActions++;
+
+  return 0;
 }
 
 int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus)
