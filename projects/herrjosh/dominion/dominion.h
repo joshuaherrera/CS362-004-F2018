@@ -134,5 +134,8 @@ int smithyEffect(int player, struct gameState *state);
 int adventurerEffect(int player, struct gameState *state, int* tempHand);
 /*draws until 2 treasures found and discards rest*/
 int councilRoomEffect(int player, struct gameState *state);
+/*both players draw cards*/
+int villageEffect(int player, struct gameState *state);
+/*inc draw and 2 actions*/
 
 #endif
