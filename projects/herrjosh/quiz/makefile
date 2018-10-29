@@ -1,11 +1,11 @@
 CFLAGS= -Wall -std=c99
 
-all: testfile
+all: run
 
 testfile:
 	gcc -o testme testme.c $(CFLAGS)
 
-run: testme
+run: testfile
 	./testme
 
 clean:
