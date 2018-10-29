@@ -656,6 +656,7 @@ int smithyEffect(int player, struct gameState *state)
 
 int adventurerEffect(int player, struct gameState *state, int* temphand)
 {
+  //uniitialize z to get an error
   int z;
   int cardDrawn = -999;
   int drawntreas = 0;
@@ -771,6 +772,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
     case adventurer:
     if (adventurerEffect(currentPlayer, state, temphand) == 0)
     {
+      discardCard(handPos, currentPlayer, state, 0);
       return 0;
     }
     return -1;
