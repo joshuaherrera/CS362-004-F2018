@@ -3,20 +3,30 @@
 #include<stdlib.h>
 #include<time.h>
 
+char* possibleInputs = "axreset[]{}() ";
+size_t inputLen = 14;
 char inputChar()
 {
     // TODO: rewrite this function
-    return ' ';
+    return possibleInputs[rand() % inputLen];
 }
 
 char *inputString()
 {
     // TODO: rewrite this function
-    return "";
+    static char str[6];
+    int i;
+    for (i = 0; i < 5; i++)
+    {
+      str[i] = possibleInputs[rand() % inputLen];
+    }
+    str[5] = '\0';
+    return str;
 }
 
 void testme()
 {
+  printf("INPUT LENGTH: %ld\n", inputLen);
   int tcCount = 0;
   char *s;
   char c;
