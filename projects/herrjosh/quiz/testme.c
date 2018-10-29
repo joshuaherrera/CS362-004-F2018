@@ -26,7 +26,7 @@ char *inputString()
 
 void testme()
 {
-  printf("INPUT LENGTH: %ld\n", inputLen);
+  //printf("INPUT LENGTH: %ld\n", inputLen);
   int tcCount = 0;
   char *s;
   char c;
