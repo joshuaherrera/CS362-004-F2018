@@ -675,7 +675,7 @@ int adventurerEffect(int player, struct gameState *state, int* temphand)
     if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
     {
       //printf("FOUND A TREASURE\n");
-      drawntreas += 1;
+      drawntreas += 2;
       //printf("EXIT TREASURE FOUND\n");
     }
     else{

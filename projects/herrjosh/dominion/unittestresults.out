@@ -661,10 +661,10 @@ Creating 'dominion.c.gcov'
 cardtest4.c:
 ----------------- Testing Card: adventurer ----------------
 TEST 4: +2 treasure cards, discard rest
-hand count = 6, expected = 6
-adventurer hand count: PASSED
-deck count = 3, expected = 3
-adventurer deck count: PASSED
+hand count = 5, expected = 6
+adventurer hand count: FAILED
+deck count = 4, expected = 3
+adventurer deck count: FAILED
 province count = 8, expected = 8
 adventurer province count: PASSED
 estate count = 8, expected = 8
