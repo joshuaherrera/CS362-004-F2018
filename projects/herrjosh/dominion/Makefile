@@ -32,7 +32,7 @@ runtests: testDrawCard
 unittestresults.out: unittest1.c unittest2.c unittest3.c unittest4.c cardtest1.c cardtest2.c cardtest3.c cardtest4.c dominion.o rngs.o
 	
 	echo "Result for running unit tests:" > unittestresults.out
-	echo "unittest1.c:" >> unittestresults.out
+	echo "unittest1.c::" >> unittestresults.out
 	gcc -o unittest1.bin dominion.o rngs.o unittest1.c $(CFLAGS)
 	./unittest1.bin >> unittestresults.out
 	gcov dominion.o -f -b >> unittestresults.out

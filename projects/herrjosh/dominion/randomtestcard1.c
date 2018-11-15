@@ -3,7 +3,6 @@
 	CS 362
 	Assignment 4
 	11/14/18
-	gcc -o tesComp unittest1.c dominion.c dominion_helpers.h rngs.c -Wall -fpic -coverage -lm -std=c99
 	
 */
 

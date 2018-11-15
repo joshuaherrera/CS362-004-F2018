@@ -3,55 +3,6 @@
 	CS 362
 	Assignment 4
 	11/14/18
-	gcc -o tesComp unittest1.c dominion.c dominion_helpers.h rngs.c -Wall -fpic -coverage -lm -std=c99
-
-
-int adventurerEffect(int player, struct gameState *state, int* temphand)
-{
-  //uniitialize z to get an error
-  int z = 0;
-  int cardDrawn = -999;
-  int drawntreas = 0;
-  while(drawntreas<2){
-    //printf("MADE IT TO FIRST WHILE\n");
-    if (state->deckCount[player] <1){//if the deck is empty we need to shuffle discard and add to deck
-      //printf("B4 SHUFFLE\n");
-      shuffle(player, state);
-      //printf("AFTER SHUFFLE\n");
-    }
-    //printf("B4 DRAWCARD\n");
-    drawCard(player, state);
-    //printf("AFTER CARDDRAWN, B4 ASSIGNING CARDDRAWN VAR\n");
-    cardDrawn = state->hand[player][state->handCount[player]-1];//top card of hand is most recently drawn card.
-    //printf("AFTER ASSIGNING CARDDRAWN VAR\n");
-    if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
-    {
-      //printf("FOUND A TREASURE\n");
-      drawntreas += 1;
-      //printf("EXIT TREASURE FOUND\n");
-    }
-    else{
-      //printf("ADDING DRAWN CARD TO HAND\n");
-      temphand[z]= cardDrawn;
-      //printf("MANIPUYLATING STATE\n");
-      state->handCount[player]--; //this should just remove the top card (the most recently drawn one).
-      //printf("DONE MANIPUYLATING STATE; INC Z\n");
-      z++;
-      //printf("DONE INC Z\n");
-    }
-  }
-  while(z-1>=0){
-    //printf("ASSIGNING TEMP DISCARD FROM TEMP HAND 2ND WHILE\n");
-    int tempdiscard = temphand[z-1];
-    //printf("MADE IT TO 2ND WHILE; DISCARD CARDS\n");
-    state->discardCount[player] += 1;
-    //printf("ADJUSTED DISCARD COUNT\n");
-    state->discard[player][state->discardCount[player]] = tempdiscard; // discard all cards in play that have been drawn
-    //printf("DISCARD SUCCESSFUL LOOP AGAIN\n");
-    z=z-1;
-  }
-  //printf("MADE IT TO END\n");
-  return 0;
 }
 */
 
