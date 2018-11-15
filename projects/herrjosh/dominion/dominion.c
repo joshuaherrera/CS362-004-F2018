@@ -657,7 +657,7 @@ int smithyEffect(int player, struct gameState *state)
 int adventurerEffect(int player, struct gameState *state, int* temphand)
 {
   //uniitialize z to get an error
-  int z;
+  int z = 0;
   int cardDrawn = -999;
   int drawntreas = 0;
   while(drawntreas<2){
@@ -730,7 +730,7 @@ int villageEffect(int currentPlayer, struct gameState* state)
       //+1 Card
       drawCard(currentPlayer, state);
       
-      //+2 Actions
+      //+2 Actions; note the error
       state->numActions = state->numActions - 2;
       return 0;
 }
@@ -984,7 +984,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
 	    
       
       return 0;
-		
+/********************************************************************************/		
     case great_hall:
       if (greatHallEffect(currentPlayer, state) == 0)
       {
@@ -993,6 +993,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
         return 0;
       }
       return -1;
+/********************************************************************************/
 		
     case minion:
       //+1 action

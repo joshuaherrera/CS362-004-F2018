@@ -53,6 +53,8 @@ int main() {
 	// initialize a game state and player cards
 	initializeGame(numPlayers, k, seed, &G);
 
+	//randomize game state
+
 	printf("----------------- Testing Card: %s ----------------\n", TESTCARD);
 
 	// ----------- Test +1 card +1 actions --------------
