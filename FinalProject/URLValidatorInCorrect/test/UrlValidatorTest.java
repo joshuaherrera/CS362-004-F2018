@@ -70,7 +70,8 @@ public class UrlValidatorTest extends TestCase {
 			   "http://www.com",
 			   "http://www.bar.com.com",
 			   "http://ww.foobar.com",
-			   "http://www.osu."};
+			   "http://www.osu.",
+			   "http://"};
 	   boolean res = false;
 	   for(int i = 0; i < invalidInputPartitionScheme.length; i++)
 	   {
