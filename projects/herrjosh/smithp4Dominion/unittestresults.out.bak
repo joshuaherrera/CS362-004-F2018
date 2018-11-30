@@ -1,0 +1,34 @@
+
+
+cardtest3.c:
+----------------- Testing Card: smithy ----------------
+TEST 3: +3 cards
+hand count = 8, expected = 7
+smithy hand count: FAILED
+deck count = 1, expected = 2
+smithy deck count: FAILED
+province count = 8, expected = 8
+smithy province count: PASSED
+estate count = 8, expected = 8
+smithy estate count: PASSED
+duchy count = 8, expected = 8
+smithy duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete smithy <<<<<
+
+
+cardtest4.c:
+----------------- Testing Card: adventurer ----------------
+TEST 4: +2 treasure cards, discard rest
+hand count = 7, expected = 6
+adventurer hand count: FAILED
+deck count = 3, expected = 3
+adventurer deck count: PASSED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<

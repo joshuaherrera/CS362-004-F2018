@@ -1,6 +1,6 @@
 #include "dominion.h"
 #include "dominion_helpers.h"
-#include "cards.h"
+//#include "cards.h"
 #include "rngs.h"
 #include <stdio.h>
 #include <math.h>
@@ -755,7 +755,7 @@ int adventurerEffect(struct gameState *state, int currentPlayer)
     drawCard(currentPlayer, state);
     cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer] - 1]; //top card of hand is most recently drawn card.
     if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
-      drawntreasure++;
+      drawntreasure += 1;
     else
     {
       temphand[z] = cardDrawn;
@@ -829,7 +829,7 @@ int smithyEffect(struct gameState *state, int currentPlayer, int handPos)
 {
   int i;
   //+3 Cards
-  for (i = 0; i <= 3; i++)
+  for (i = 0; i < 3; i++)
   {
     drawCard(currentPlayer, state);
   }

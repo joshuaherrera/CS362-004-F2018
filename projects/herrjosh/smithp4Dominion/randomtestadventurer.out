@@ -1,0 +1,3364 @@
+Result for running random tests:
+randomtestadventurer.c:
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 501, expected = 500
+adventurer hand count: FAILED
+deck count = 8, expected = 23
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 493, expected = 494
+adventurer hand count: FAILED
+deck count = 266, expected = 264
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 322, expected = 323
+adventurer hand count: FAILED
+deck count = 13, expected = 11
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 394, expected = 393
+adventurer hand count: FAILED
+deck count = 8, expected = 444
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 316, expected = 315
+adventurer hand count: FAILED
+deck count = 8, expected = 134
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 465, expected = 464
+adventurer hand count: FAILED
+deck count = 8, expected = 127
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 431, expected = 430
+adventurer hand count: FAILED
+deck count = 8, expected = 421
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 171, expected = 172
+adventurer hand count: FAILED
+deck count = 183, expected = 181
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 65, expected = 66
+adventurer hand count: FAILED
+deck count = 70, expected = 68
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 152, expected = 153
+adventurer hand count: FAILED
+deck count = 492, expected = 490
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 426, expected = 425
+adventurer hand count: FAILED
+deck count = 8, expected = 459
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 261, expected = 262
+adventurer hand count: FAILED
+deck count = 109, expected = 107
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 207, expected = 208
+adventurer hand count: FAILED
+deck count = 149, expected = 147
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 353, expected = 352
+adventurer hand count: FAILED
+deck count = 8, expected = 54
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 199, expected = 200
+adventurer hand count: FAILED
+deck count = 391, expected = 389
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 319, expected = 320
+adventurer hand count: FAILED
+deck count = 402, expected = 400
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 354, expected = 353
+adventurer hand count: FAILED
+deck count = 8, expected = 324
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 22, expected = 23
+adventurer hand count: FAILED
+deck count = 7, expected = 5
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 240, expected = 241
+adventurer hand count: FAILED
+deck count = 360, expected = 358
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 280, expected = 279
+adventurer hand count: FAILED
+deck count = 8, expected = 463
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 433, expected = 432
+adventurer hand count: FAILED
+deck count = 8, expected = 134
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 44, expected = 45
+adventurer hand count: FAILED
+deck count = 302, expected = 300
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 269, expected = 270
+adventurer hand count: FAILED
+deck count = 248, expected = 246
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 286, expected = 285
+adventurer hand count: FAILED
+deck count = 8, expected = 240
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 5, expected = 343
+adventurer hand count: FAILED
+deck count = 0, expected = -2
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 316, expected = 317
+adventurer hand count: FAILED
+deck count = 216, expected = 214
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 281, expected = 282
+adventurer hand count: FAILED
+deck count = 227, expected = 225
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 104, expected = 105
+adventurer hand count: FAILED
+deck count = 386, expected = 384
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 93, expected = 94
+adventurer hand count: FAILED
+deck count = 314, expected = 312
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 394, expected = 395
+adventurer hand count: FAILED
+deck count = 353, expected = 351
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 172, expected = 173
+adventurer hand count: FAILED
+deck count = 146, expected = 144
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 278, expected = 277
+adventurer hand count: FAILED
+deck count = 8, expected = 339
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 440, expected = 439
+adventurer hand count: FAILED
+deck count = 8, expected = 433
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 426, expected = 427
+adventurer hand count: FAILED
+deck count = 15, expected = 13
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 253, expected = 252
+adventurer hand count: FAILED
+deck count = 3, expected = 3
+adventurer deck count: PASSED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 19, expected = 18
+adventurer hand count: FAILED
+deck count = 8, expected = 424
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 100, expected = 99
+adventurer hand count: FAILED
+deck count = 8, expected = 205
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 424, expected = 423
+adventurer hand count: FAILED
+deck count = 8, expected = 41
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 30, expected = 29
+adventurer hand count: FAILED
+deck count = 8, expected = 462
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 60, expected = 59
+adventurer hand count: FAILED
+deck count = 8, expected = 26
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 308, expected = 309
+adventurer hand count: FAILED
+deck count = 413, expected = 411
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 163, expected = 162
+adventurer hand count: FAILED
+deck count = 8, expected = 135
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 482, expected = 483
+adventurer hand count: FAILED
+deck count = 226, expected = 224
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 489, expected = 488
+adventurer hand count: FAILED
+deck count = 8, expected = 259
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 123, expected = 124
+adventurer hand count: FAILED
+deck count = 76, expected = 74
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 82, expected = 81
+adventurer hand count: FAILED
+deck count = 8, expected = 64
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 262, expected = 261
+adventurer hand count: FAILED
+deck count = 8, expected = 448
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 239, expected = 238
+adventurer hand count: FAILED
+deck count = 8, expected = 147
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 159, expected = 158
+adventurer hand count: FAILED
+deck count = 8, expected = 342
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 149, expected = 148
+adventurer hand count: FAILED
+deck count = 8, expected = 250
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 156, expected = 155
+adventurer hand count: FAILED
+deck count = 8, expected = 33
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 19, expected = 18
+adventurer hand count: FAILED
+deck count = 8, expected = 323
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 298, expected = 297
+adventurer hand count: FAILED
+deck count = 8, expected = 78
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 446, expected = 447
+adventurer hand count: FAILED
+deck count = 297, expected = 295
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 297, expected = 296
+adventurer hand count: FAILED
+deck count = 8, expected = 158
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 460, expected = 459
+adventurer hand count: FAILED
+deck count = 8, expected = 442
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 447, expected = 446
+adventurer hand count: FAILED
+deck count = 8, expected = 66
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 89, expected = 90
+adventurer hand count: FAILED
+deck count = 466, expected = 464
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 394, expected = 395
+adventurer hand count: FAILED
+deck count = 414, expected = 412
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 293, expected = 292
+adventurer hand count: FAILED
+deck count = 8, expected = 215
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 79, expected = 78
+adventurer hand count: FAILED
+deck count = 8, expected = 90
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 119, expected = 120
+adventurer hand count: FAILED
+deck count = 391, expected = 389
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 454, expected = 453
+adventurer hand count: FAILED
+deck count = 8, expected = 336
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 21, expected = 22
+adventurer hand count: FAILED
+deck count = 73, expected = 71
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 82, expected = 81
+adventurer hand count: FAILED
+deck count = 8, expected = 274
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 307, expected = 306
+adventurer hand count: FAILED
+deck count = 8, expected = 97
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 382, expected = 383
+adventurer hand count: FAILED
+deck count = 5, expected = 3
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 128, expected = 127
+adventurer hand count: FAILED
+deck count = 8, expected = 491
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 63, expected = 64
+adventurer hand count: FAILED
+deck count = 28, expected = 26
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 88, expected = 87
+adventurer hand count: FAILED
+deck count = 8, expected = 457
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 348, expected = 347
+adventurer hand count: FAILED
+deck count = 8, expected = 433
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 399, expected = 398
+adventurer hand count: FAILED
+deck count = 8, expected = 57
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 276, expected = 277
+adventurer hand count: FAILED
+deck count = 76, expected = 74
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 97, expected = 98
+adventurer hand count: FAILED
+deck count = 127, expected = 125
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 273, expected = 272
+adventurer hand count: FAILED
+deck count = 8, expected = 144
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 178, expected = 179
+adventurer hand count: FAILED
+deck count = 329, expected = 327
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 476, expected = 475
+adventurer hand count: FAILED
+deck count = 8, expected = 164
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 356, expected = 355
+adventurer hand count: FAILED
+deck count = 8, expected = 211
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 315, expected = 314
+adventurer hand count: FAILED
+deck count = 8, expected = 270
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 180, expected = 181
+adventurer hand count: FAILED
+deck count = 280, expected = 278
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 164, expected = 165
+adventurer hand count: FAILED
+deck count = 81, expected = 79
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 477, expected = 476
+adventurer hand count: FAILED
+deck count = 8, expected = 316
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 158, expected = 159
+adventurer hand count: FAILED
+deck count = 147, expected = 145
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 230, expected = 229
+adventurer hand count: FAILED
+deck count = 8, expected = 385
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 308, expected = 307
+adventurer hand count: FAILED
+deck count = 8, expected = 13
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 166, expected = 167
+adventurer hand count: FAILED
+deck count = 470, expected = 468
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 76, expected = 75
+adventurer hand count: FAILED
+deck count = 8, expected = 179
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 160, expected = 161
+adventurer hand count: FAILED
+deck count = 46, expected = 44
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 360, expected = 361
+adventurer hand count: FAILED
+deck count = 183, expected = 181
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 261, expected = 260
+adventurer hand count: FAILED
+deck count = 8, expected = 371
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 322, expected = 323
+adventurer hand count: FAILED
+deck count = 50, expected = 48
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 61, expected = 60
+adventurer hand count: FAILED
+deck count = 8, expected = 41
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 243, expected = 242
+adventurer hand count: FAILED
+deck count = 8, expected = 497
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 337, expected = 336
+adventurer hand count: FAILED
+deck count = 8, expected = 45
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 352, expected = 351
+adventurer hand count: FAILED
+deck count = 8, expected = 68
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 37, expected = 36
+adventurer hand count: FAILED
+deck count = 8, expected = 203
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 364, expected = 363
+adventurer hand count: FAILED
+deck count = 8, expected = 47
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 413, expected = 412
+adventurer hand count: FAILED
+deck count = 8, expected = 351
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 357, expected = 358
+adventurer hand count: FAILED
+deck count = 435, expected = 433
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 245, expected = 244
+adventurer hand count: FAILED
+deck count = 8, expected = 246
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 348, expected = 347
+adventurer hand count: FAILED
+deck count = 8, expected = 384
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 377, expected = 378
+adventurer hand count: FAILED
+deck count = 108, expected = 106
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 153, expected = 152
+adventurer hand count: FAILED
+deck count = 8, expected = 338
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 117, expected = 118
+adventurer hand count: FAILED
+deck count = 247, expected = 245
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 467, expected = 466
+adventurer hand count: FAILED
+deck count = 8, expected = 206
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 129, expected = 130
+adventurer hand count: FAILED
+deck count = 259, expected = 257
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 251, expected = 252
+adventurer hand count: FAILED
+deck count = 264, expected = 262
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 277, expected = 278
+adventurer hand count: FAILED
+deck count = 179, expected = 177
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 269, expected = 270
+adventurer hand count: FAILED
+deck count = 472, expected = 470
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 145, expected = 144
+adventurer hand count: FAILED
+deck count = 8, expected = 195
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 359, expected = 360
+adventurer hand count: FAILED
+deck count = 353, expected = 351
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 338, expected = 337
+adventurer hand count: FAILED
+deck count = 8, expected = 111
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 413, expected = 412
+adventurer hand count: FAILED
+deck count = 8, expected = 174
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 497, expected = 496
+adventurer hand count: FAILED
+deck count = 8, expected = 114
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 475, expected = 476
+adventurer hand count: FAILED
+deck count = 171, expected = 169
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 294, expected = 293
+adventurer hand count: FAILED
+deck count = 8, expected = 199
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 62, expected = 61
+adventurer hand count: FAILED
+deck count = 8, expected = 158
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 368, expected = 367
+adventurer hand count: FAILED
+deck count = 8, expected = 213
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 91, expected = 92
+adventurer hand count: FAILED
+deck count = 138, expected = 136
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 226, expected = 227
+adventurer hand count: FAILED
+deck count = 439, expected = 437
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 51, expected = 52
+adventurer hand count: FAILED
+deck count = 2, expected = 0
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 446, expected = 447
+adventurer hand count: FAILED
+deck count = 206, expected = 204
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 487, expected = 488
+adventurer hand count: FAILED
+deck count = 76, expected = 74
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 113, expected = 112
+adventurer hand count: FAILED
+deck count = 8, expected = 228
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 71, expected = 70
+adventurer hand count: FAILED
+deck count = 8, expected = 342
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 316, expected = 315
+adventurer hand count: FAILED
+deck count = 8, expected = 354
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 284, expected = 285
+adventurer hand count: FAILED
+deck count = 177, expected = 175
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 159, expected = 158
+adventurer hand count: FAILED
+deck count = 8, expected = 135
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 378, expected = 379
+adventurer hand count: FAILED
+deck count = 473, expected = 471
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 124, expected = 123
+adventurer hand count: FAILED
+deck count = 8, expected = 436
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 40, expected = 41
+adventurer hand count: FAILED
+deck count = 44, expected = 42
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 291, expected = 290
+adventurer hand count: FAILED
+deck count = 8, expected = 242
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 93, expected = 94
+adventurer hand count: FAILED
+deck count = 236, expected = 234
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 407, expected = 408
+adventurer hand count: FAILED
+deck count = 468, expected = 466
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 382, expected = 383
+adventurer hand count: FAILED
+deck count = 467, expected = 465
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 51, expected = 52
+adventurer hand count: FAILED
+deck count = 21, expected = 19
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 355, expected = 356
+adventurer hand count: FAILED
+deck count = 431, expected = 429
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 26, expected = 25
+adventurer hand count: FAILED
+deck count = 8, expected = 342
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 163, expected = 162
+adventurer hand count: FAILED
+deck count = 8, expected = 463
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 293, expected = 294
+adventurer hand count: FAILED
+deck count = 147, expected = 145
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 11, expected = 10
+adventurer hand count: FAILED
+deck count = 8, expected = 16
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 284, expected = 283
+adventurer hand count: FAILED
+deck count = 8, expected = 341
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 445, expected = 446
+adventurer hand count: FAILED
+deck count = 480, expected = 478
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 11, expected = 12
+adventurer hand count: FAILED
+deck count = 251, expected = 249
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 242, expected = 241
+adventurer hand count: FAILED
+deck count = 8, expected = 47
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 89, expected = 90
+adventurer hand count: FAILED
+deck count = 496, expected = 494
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 415, expected = 414
+adventurer hand count: FAILED
+deck count = 8, expected = 60
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 448, expected = 447
+adventurer hand count: FAILED
+deck count = 8, expected = 261
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 205, expected = 206
+adventurer hand count: FAILED
+deck count = 84, expected = 82
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 246, expected = 245
+adventurer hand count: FAILED
+deck count = 8, expected = 455
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 232, expected = 231
+adventurer hand count: FAILED
+deck count = 8, expected = 455
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 169, expected = 170
+adventurer hand count: FAILED
+deck count = 430, expected = 428
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 356, expected = 355
+adventurer hand count: FAILED
+deck count = 8, expected = 256
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 301, expected = 302
+adventurer hand count: FAILED
+deck count = 307, expected = 305
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 145, expected = 144
+adventurer hand count: FAILED
+deck count = 8, expected = 309
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 337, expected = 338
+adventurer hand count: FAILED
+deck count = 416, expected = 414
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 51, expected = 50
+adventurer hand count: FAILED
+deck count = 8, expected = 107
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 195, expected = 196
+adventurer hand count: FAILED
+deck count = 128, expected = 126
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 392, expected = 393
+adventurer hand count: FAILED
+deck count = 147, expected = 145
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 299, expected = 298
+adventurer hand count: FAILED
+deck count = 8, expected = 444
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 136, expected = 135
+adventurer hand count: FAILED
+deck count = 8, expected = 388
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 52, expected = 53
+adventurer hand count: FAILED
+deck count = 403, expected = 401
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 389, expected = 390
+adventurer hand count: FAILED
+deck count = 414, expected = 412
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 296, expected = 295
+adventurer hand count: FAILED
+deck count = 8, expected = 213
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 156, expected = 155
+adventurer hand count: FAILED
+deck count = 8, expected = 77
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 478, expected = 479
+adventurer hand count: FAILED
+deck count = 193, expected = 191
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 298, expected = 299
+adventurer hand count: FAILED
+deck count = 496, expected = 494
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 319, expected = 320
+adventurer hand count: FAILED
+deck count = 234, expected = 232
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 425, expected = 424
+adventurer hand count: FAILED
+deck count = 8, expected = 93
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 269, expected = 270
+adventurer hand count: FAILED
+deck count = 498, expected = 496
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 464, expected = 465
+adventurer hand count: FAILED
+deck count = 16, expected = 14
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 357, expected = 358
+adventurer hand count: FAILED
+deck count = 53, expected = 51
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 116, expected = 117
+adventurer hand count: FAILED
+deck count = 178, expected = 176
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 270, expected = 271
+adventurer hand count: FAILED
+deck count = 376, expected = 374
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 305, expected = 304
+adventurer hand count: FAILED
+deck count = 8, expected = 160
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 422, expected = 421
+adventurer hand count: FAILED
+deck count = 8, expected = 400
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 485, expected = 484
+adventurer hand count: FAILED
+deck count = 8, expected = 130
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 301, expected = 300
+adventurer hand count: FAILED
+deck count = 8, expected = 265
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 104, expected = 105
+adventurer hand count: FAILED
+deck count = 227, expected = 225
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 388, expected = 389
+adventurer hand count: FAILED
+deck count = 155, expected = 153
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 122, expected = 123
+adventurer hand count: FAILED
+deck count = 372, expected = 370
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 474, expected = 475
+adventurer hand count: FAILED
+deck count = 337, expected = 335
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 384, expected = 385
+adventurer hand count: FAILED
+deck count = 286, expected = 284
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 141, expected = 142
+adventurer hand count: FAILED
+deck count = 350, expected = 348
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 161, expected = 160
+adventurer hand count: FAILED
+deck count = 8, expected = 245
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 156, expected = 155
+adventurer hand count: FAILED
+deck count = 8, expected = 234
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 262, expected = 261
+adventurer hand count: FAILED
+deck count = 8, expected = 170
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 43, expected = 42
+adventurer hand count: FAILED
+deck count = 8, expected = 458
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 424, expected = 425
+adventurer hand count: FAILED
+deck count = 245, expected = 243
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 75, expected = 76
+adventurer hand count: FAILED
+deck count = 136, expected = 134
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 13, expected = 12
+adventurer hand count: FAILED
+deck count = 8, expected = 119
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 335, expected = 336
+adventurer hand count: FAILED
+deck count = 61, expected = 59
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 234, expected = 235
+adventurer hand count: FAILED
+deck count = 102, expected = 100
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 153, expected = 152
+adventurer hand count: FAILED
+deck count = 8, expected = 155
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 103, expected = 104
+adventurer hand count: FAILED
+deck count = 474, expected = 472
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 479, expected = 480
+adventurer hand count: FAILED
+deck count = 248, expected = 246
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 236, expected = 235
+adventurer hand count: FAILED
+deck count = 8, expected = 442
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 426, expected = 425
+adventurer hand count: FAILED
+deck count = 8, expected = 84
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 230, expected = 229
+adventurer hand count: FAILED
+deck count = 8, expected = 154
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+----------------- Randomizing State ----------------
+----------------- Testing Card: adventurer ----------------
+TEST 1: +2 treasure cards, discard rest
+hand count = 405, expected = 406
+adventurer hand count: FAILED
+deck count = 378, expected = 376
+adventurer deck count: FAILED
+province count = 8, expected = 8
+adventurer province count: PASSED
+estate count = 8, expected = 8
+adventurer estate count: PASSED
+duchy count = 8, expected = 8
+adventurer duchy count: PASSED
+
+ >>>>> SUCCESS: Testing complete adventurer <<<<<
+
+Function 'updateCoins'
+Lines executed:81.82% of 11
+Branches executed:100.00% of 8
+Taken at least once:75.00% of 8
+No calls
+
+Function 'gainCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 1
+
+Function 'discardCard'
+Lines executed:92.31% of 13
+Branches executed:100.00% of 6
+Taken at least once:66.67% of 6
+No calls
+
+Function 'cardEffect'
+Lines executed:9.78% of 225
+Branches executed:13.29% of 173
+Taken at least once:2.89% of 173
+Calls executed:12.28% of 57
+
+Function 'smithyEffect'
+Lines executed:100.00% of 5
+Branches executed:100.00% of 2
+Taken at least once:100.00% of 2
+Calls executed:100.00% of 2
+
+Function 'remodelEffect'
+Lines executed:0.00% of 11
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 5
+
+Function 'gardensEffect'
+Lines executed:0.00% of 1
+No branches
+No calls
+
+Function 'councilRoomEffect'
+Lines executed:0.00% of 8
+Branches executed:0.00% of 4
+Taken at least once:0.00% of 4
+Calls executed:0.00% of 3
+
+Function 'adventurerEffect'
+Lines executed:100.00% of 15
+Branches executed:100.00% of 10
+Taken at least once:80.00% of 10
+Calls executed:100.00% of 1
+
+Function 'getCost'
+Lines executed:0.00% of 57
+Branches executed:0.00% of 28
+Taken at least once:0.00% of 28
+No calls
+
+Function 'drawCard'
+Lines executed:100.00% of 22
+Branches executed:100.00% of 6
+Taken at least once:100.00% of 6
+Calls executed:100.00% of 1
+
+Function 'getWinners'
+Lines executed:0.00% of 24
+Branches executed:0.00% of 22
+Taken at least once:0.00% of 22
+Calls executed:0.00% of 2
+
+Function 'scoreFor'
+Lines executed:0.00% of 42
+Branches executed:0.00% of 42
+Taken at least once:0.00% of 42
+Calls executed:0.00% of 3
+
+Function 'isGameOver'
+Lines executed:90.00% of 10
+Branches executed:100.00% of 8
+Taken at least once:87.50% of 8
+No calls
+
+Function 'endTurn'
+Lines executed:0.00% of 20
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 3
+
+Function 'whoseTurn'
+Lines executed:100.00% of 2
+No branches
+No calls
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 12
+Branches executed:0.00% of 12
+Taken at least once:0.00% of 12
+No calls
+
+Function 'supplyCount'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'handCard'
+Lines executed:0.00% of 3
+No branches
+Calls executed:0.00% of 1
+
+Function 'numHandCards'
+Lines executed:0.00% of 2
+No branches
+Calls executed:0.00% of 1
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 4
+
+Function 'playCard'
+Lines executed:0.00% of 14
+Branches executed:0.00% of 10
+Taken at least once:0.00% of 10
+Calls executed:0.00% of 3
+
+Function 'shuffle'
+Lines executed:100.00% of 16
+Branches executed:100.00% of 8
+Taken at least once:100.00% of 8
+Calls executed:100.00% of 2
+
+Function 'initializeGame'
+Lines executed:83.87% of 62
+Branches executed:95.65% of 46
+Taken at least once:78.26% of 46
+Calls executed:100.00% of 5
+
+Function 'kingdomCards'
+Lines executed:100.00% of 13
+No branches
+No calls
+
+Function 'newGame'
+Lines executed:0.00% of 3
+No branches
+No calls
+
+Function 'compare'
+Lines executed:100.00% of 6
+Branches executed:100.00% of 4
+Taken at least once:100.00% of 4
+No calls
+
+File 'dominion.c'
+Lines executed:29.28% of 625
+Branches executed:28.81% of 413
+Taken at least once:20.82% of 413
+Calls executed:19.15% of 94
+Creating 'dominion.c.gcov'
+
